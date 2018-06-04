@@ -1,7 +1,7 @@
 package com.somat;
 import java.sql.*;
 
-public class DatabaseConnector {
+public class TestManageDBResource {
 
 
 }
